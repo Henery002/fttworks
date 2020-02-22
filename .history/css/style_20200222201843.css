@@ -11,7 +11,7 @@
 }
 
 img {
-  width: 100%;
+  width: 96%;
   height: 100%;
 }
 
@@ -565,7 +565,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-blog {
-  /* padding: 2em 0; */
+  padding: 2em 0;
   clear: both;
   width: 100%;
   display: block;
